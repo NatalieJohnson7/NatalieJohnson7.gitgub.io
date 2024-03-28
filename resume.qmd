@@ -1,88 +1,148 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Natalie Johnson CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Natalie Johnson
+Student, TA, and Turor at Brigham Young University – Idaho.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2024`
+__Brigham Young University – Idaho, Rexburg, ID__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- __B.A.__ Psychology (Health Psychology Emphasis), __Minor:__
+Data Science
 
-- Sizar
+- __Relevant Classes:__ Research Methods, Experiencing
+Research, Intermediate Statistics, Linear Regression
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2022-current`
+__Teaching Assistant__, Brigham Young University – Idaho
 
-- Warden
-- Minted coins
+- Psychology Department
+- Supervisor: Rob Wright, Ph.D.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2023-current`
+__Teaching Assistant__, Brigham Young University – Idaho
+
+- Health Services Department
+- Supervisor: Geoffrey Loomis, Ph.D.
+
+`2023-current`
+__Tutor__, Brigham Young University – Idaho
+
+- Campus Tutoring Center
+- Supervisor: Samuel Clay, Ph.D.
 
 
+
+## Research interests
+
+Health Psychology, Health Behavior Change, Interventions, Cognition, Obesity, Longevity.
+
+
+
+## Manuscript Under Review
+
+- Wright, R.R., Wilson, M., Nienstedt, C., Ewing, C., Rodriguez, A., Anderson, C., __Johnson, N.__, &
+Johnson, L. (under review). Quality dating and wellness among a conservative college
+student body: A mixed methods approach. Journal of American College Health.
+
+
+
+## Professional Research Experience
+
+`2022-current`
+__Research Assistant: Health Psychology__
+
+- Faculty Mentor: Rob Wright, Ph.D.
+- Contributed to research idea development, literature reviews, qualitative data analysis, and presentations. Contributed to a research publication undergoing peer review. Additionally, I led a team of 15 students in a study aimed at enhancing running performance through mindfulness techniques. My responsibilities included designing and overseeing the study, conducting research analyses, and leading full-scale research using a pre-post-intervention, quasi-experimental research design. The study involved the use of equipment such as heart rate monitors and treadmills.
+
+`2023`
+__Student Research Assistant__
+
+- Faculty Mentor: Samuel Clay, Ph.D.
+- I collaborated with other students on an exploratory study about different motivations for exercise. We are currently using self-determination theory to understand what motivates college students to exercise and what factors correlate with it, such as age, gender, life satisfaction and subjected health.
+
+`2023`
+__Student Research Assistant__
+
+- Faculty Mentor: Scott Martin, Ph.D.
+- Assisted a graduate student in a spiritual feeling’s perception dissertation. Developed pilot study, created presentation, delivered it at a research conference.
+
+`2022`
+__Student Lead Researcher__
+
+- Faculty Mentor: Rob Wright, Ph.D.
+- Led a self-designed project on college students' exercise preferences pre/post COVID-19. Assisted with IRB, data analysis, and conference presentation.
+
+
+
+## Professional Research Conference Presentations
+
+`2023`
+Wilson, M., Harrison, A., Merrick, S., Wright, S., Layton, M.J., Mouser, S., Johnson, L., __Johnson, N.__,
+Price, N., & Wright, R.R. (2023, April). Little Women: Exploring Dating for Young
+Women in a Religious Population. Presentation delivered for the annual Rocky Mountain
+Psychological Association conference. Albuquerque, NM.
+
+
+
+## Media Presentations
+
+- Scroll. Featured “What is the research behind dating?”. The article was published on the “Dating Quality Project” online in the July 10, 2023 edition: Ray, K. (2023).
+- BYU-Idaho Radio. Featured “Psychology Students Study the Dating Culture at BYU- Idaho” research conducted with C. Nienstedt, M. Wilson, & __N. Johnson__. The interview was aired during news segment on 1/25/2023. Simmons, C. (2023).
+
+
+
+## Teaching
+
+`2022-current`
+__Teaching Assistant, Department of Psychology__
+
+- Supervisor: Rob Wright, Ph.D.
+- __Courses:__
+- PSYCH 435, Health Psychology (10 sections)
+- PSYCH 485, Experiencing Research (6 sections)
+
+`2023-current`
+__Teaching Assistant, Department of Health Services__
+
+- Supervisor: Geoffrey Loomis, Ph.D.
+- __Courses:__
+- PUBH 132, Health and Wellness (1 section)
+- PUBH 391, Research Methods (3 sections)
+
+
+
+## Leadership & Volunteer Experience
+
+`2023-current`
+__Data Enhancement & Web Scraping Team Member__
+
+- Worked alongside other members of a campus club to enhance an international real estate company's website.
+- Provided insights for website improvements.
+- Streamlined real estate data consolidation by capturing property screenshots from multiple websites, optimizing information access on a unified platform.
+
+`2023-current`
+__Special Needs Activity Coordinator__
+
+- Planned and organized activities for individuals with special needs, including arts and crafts, recreational games, and social events.
+- Collaborated with other volunteers.
+- Led and facilitated activities.
+
+`2019-2021`
+__Special Needs Activity Coordinator__
+
+- Adapted to different cultures, learned interpersonal skills, became fluent in Spanish.
+- Planned lessons, taught lessons in meetings with volunteers.
+- Connected with hundreds of different people.
 
 <!-- ### Footer
 
