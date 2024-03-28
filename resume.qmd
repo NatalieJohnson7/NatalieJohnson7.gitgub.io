@@ -2,6 +2,13 @@
 layout: cv
 title: Natalie Johnson CV
 ---
+
+<div id="webaddress">
+<a href="natalielinford777@gmail.com">isaac@applesdofall.org</a>
+
+</div>
+
+
 # Natalie Johnson
 Student, TA, and Turor at Brigham Young University – Idaho.
 
@@ -138,7 +145,7 @@ __Special Needs Activity Coordinator__
 - Led and facilitated activities.
 
 `2019-2021`
-__Special Needs Activity Coordinator__
+__Full Time Representive, The Church of Jesus Christ of Latter-day Saints__
 
 - Adapted to different cultures, learned interpersonal skills, became fluent in Spanish.
 - Planned lessons, taught lessons in meetings with volunteers.
